@@ -39,4 +39,4 @@
 * 14% F1 Score <br/>
 ![Picture6](Resources/Ensemble_Classifier.PNG) <br/>
 ## Summary
-> This 
+> These results show us Easy Ensemble Classifier method has the advantage over the other methods. 93% Accuracy and 91% Recall means most of the predictions were correct on detecting a high risk credit group. In order not to miss any points that falsely detected this project show us to using this method is more efficient rather than other methods. 
